@@ -50,9 +50,9 @@ Onshape will proceed to check your information (which may take some time), then 
 
 ### Account Setup
 
-The first time you enter Onshape, it will prompt you to set up your account, including the default units and mouse controls used when doing CAD. Please use your real name when prompted. The default units should be adjusted from the defaults to be metric. The image below shows the units you should choose. Notice that millimetres (mm) are used instead of centimetres (cm). You may be more familiar with centimetres, but millimetres are the preferred engineering unit. If you need to change your default units after creating an account, you can do this by clicking on your name in the top right, selecting "My account", opening "Preferences" on the left side bar, and scrolling until you see the units settings.
+The first time you enter Onshape, it will prompt you to set up your account, including the default units and mouse controls used when doing CAD. Please use your real name when prompted. The default units should be adjusted from the defaults to be metric. The image below shows some sensible settings. Notice that millimetres (mm) are used instead of centimetres (cm). You may be more familiar with centimetres, but millimetres are the preferred engineering unit. If you need to change your default units after creating an account, you can do this by clicking on your name in the top right, selecting "My account", opening "Preferences" on the left side bar, and scrolling until you see the units settings.
 
-<center><img src="/img/learning-course/course-setup/account-setup/units.webp" style="width:60%; border:5px solid #ADADAD; border-radius: 2%"></center>
+<center><img src="/img/learning-course/course-setup/account-setup/units.webp" style="width:80%; border:5px solid #ADADAD; border-radius: 2%"></center>
 
 ### Join the Onshape Team
 

@@ -52,6 +52,9 @@ In the last exercise, you extruded an existing sketch. Now it's your turn to **c
 
 When we sketch, we use rectangles to represent box tubes in 2D, and use **dimensions** and **constraints** to lock everything into place.
 
+!!! Tip
+    In FRC, you will often have to work with imperial parts and measurements. If you need to dimension something to 2" (2 inches), you can type "2 in" directly into a sketch dimension and Onshape will automatically convert it to millimetres for you.
+
 Follow along with the video below to practice sketching fundamentals in Onshape.
 
 <br>

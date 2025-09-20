@@ -5,7 +5,7 @@
 
 ## Registering an Account
 
-Onshape offers a free education license for students to use their software. It is highly recommended to use the education plan, as it allows for the creation of private documents, as well as other useful features.
+Onshape offers a free education license for students to use their software. You will need the education license to have full access to the features we use on 4788.
 
 To start registering, go to the [Onshape for Education](https://onshape.com/education-plan "Onshape Education Plan"){:target="_blank"} page and select "Create EDU ACCOUNT" or click [this link](https://www.onshape.com/en/education/sign-up "Onshape Sign Up Page"){:target="_blank"}. Follow the slides below to finish registering.
 
@@ -50,17 +50,12 @@ Onshape will proceed to check your information (which may take some time), then 
 
 ### Account Setup
 
-The first time you enter Onshape, it will prompt you to set up your account, including the default units and mouse controls used when doing CAD. You can also set a profile picture and a nickname (we recommend keeping this as your real name).
-
-If your team uses Onshape, contact your mentor/design lead for access to the Onshape classroom/team.
+The first time you enter Onshape, it will prompt you to set up your account, including the default units and mouse controls used when doing CAD. Please use your real name when prompted. The default units should be adjusted from the defaults to be metric. The image below shows the units you should choose. Notice that millimetres (mm) are used instead of centimetres (cm). You may be more familiar with centimetres, but millimetres are the preferred engineering unit. If you need to change your default units after creating an account, you can do this by clicking on your name in the top right, selecting "My account", opening "Preferences" on the left side bar, and scrolling until you see the units settings.
 
 <center><img src="/img/learning-course/course-setup/account-setup/units.webp" style="width:60%; border:5px solid #ADADAD; border-radius: 2%"></center>
 
-## OPTIONAL: Onshape Educator Plan 
-Besides individual setup, if your team uses Onshape or are switching to it, one of your mentors or design leads should get the Educator plan and add all members to a "classroom". The Educator plan is free for FIRST teams and will make document management easier. It also provides a suite of features for all students added to the "classroom", such as simulation, release management, and classes/assignments. 
+### Join the Onshape Team
 
-If you are interested, direct your design lead or mentors to read the ChiefDelphi post linked below for a better overview and walkthrough to set it up for your team.
-
-[Onshape Educator Plan: What it Means for FRC Teams](https://www.chiefdelphi.com/t/onshape-educator-plan-what-it-means-for-frc-teams/446394 "Onshape Educator Plan Chief Delphi Thread"){:target="_blank"}
+Once you have successfully logged in to Onshape, talk to a lead mentor to get added to the 4788 Onshape Team. Once you are added, you can access the team files from the left sidebar on the "Documents" page, under the "Teams" dropdown.
 
 <br>

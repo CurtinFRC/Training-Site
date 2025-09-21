@@ -64,7 +64,7 @@ Where `PD1` and `PD2` are the *Pitch Diameters* of the two gears. The **Pitch Di
 
 <center>**`PD = (# of teeth) / DP`**</center>
 
-Where DP stands for **diametral pitch**. For now, you can assume it to always be 20. If you're curious, you can learn more about this in the Design Handbook pages.
+Where DP stands for **diametral pitch**. For now, you can assume it to always be 20, as this is the DP used in FRC standard gears. If you're curious, ask a mentor for more information!
 
 <figure>
     <img src="\img\learning-course\stage1b\gears\gearDiagram.webp" style="width:70%">

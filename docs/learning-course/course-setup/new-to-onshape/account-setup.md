@@ -54,7 +54,7 @@ The first time you enter Onshape, it will prompt you to set up your account, inc
 
 If your team uses Onshape, contact your mentor/design lead for access to the Onshape classroom/team.
 
-<center><img src="/img/learning-course/course-setup/account-setup/units.webp" style="width:60%; border:5px solid #ADADAD; border-radius: 2%"></center>
+<center><img src="/img/learning-course/course-setup/account-setup/units.png" style="width:60%; border:5px solid #ADADAD; border-radius: 2%"></center>
 
 ## OPTIONAL: Onshape Educator Plan 
 Besides individual setup, if your team uses Onshape or are switching to it, one of your mentors or design leads should get the Educator plan and add all members to a "classroom". The Educator plan is free for FIRST teams and will make document management easier. It also provides a suite of features for all students added to the "classroom", such as simulation, release management, and classes/assignments. 

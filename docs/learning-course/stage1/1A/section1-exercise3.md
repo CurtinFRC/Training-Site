@@ -105,7 +105,7 @@ The only numbers you should see:
 
 - 108mm (gap between modules)
 - 25mm (tube width)
-- 400mm (distance between cross rails)
+- 200mm (distance between cross rails)
 
 <figure>
   <img src="/img/learning-course/stage1a/drivetrain-crossrail-sketch2.webp" style="width:90%">

@@ -1,94 +1,50 @@
-# GitHub Guide
+# Git and GitHub Guide
 
 ## Table of Contents
-1. [Introduction](#introduction)  
-2. [Prerequisites](#prerequisites)  
-3. [Getting Started](#getting-started)  
-    - [Installing Git](#installing-git)  
-    - [Configuring Authentication](#configuring-authentication)  
-4. [Basic Workflow](#basic-workflow)  
-    - [Cloning a Repository](#cloning-a-repository)  
-    - [Creating a Branch](#creating-a-branch)  
-    - [Committing Changes](#committing-changes)  
-    - [Pushing Changes](#pushing-changes)  
-5. [Collaboration](#collaboration)  
-    - [Pull Requests](#pull-requests)  
-    - [Code Review](#code-review)  
-6. [Advanced Features](#advanced-features)  
-7. [Best Practices](#best-practices)  
-8. [Troubleshooting](#troubleshooting)  
-9. [Additional Resources](#additional-resources)  
+1. [Git Basics](#Git Basics)  
+2. [GitHub Basics](#GitHub Basics)  
+3. [Naming Commits](#Naming Commits)  
+4. [Creating Good Issues and PRs](#Creating Good Issues and PRs)  
+5. [Workflow](#Workflow)  
 
 ---
 
-## Introduction
-Brief overview of GitHub and its key features.
+## Git Basics
 
-## Prerequisites
-- Git installed (v2.x or later)  
-- GitHub account  
-- Command-line familiarity  
+To start off with learning Git have a read of [this](https://docs.wpilib.org/en/stable/docs/software/basic-programming/git-getting-started.html) article from the WPILib team detailing some of the basic features of Git.
 
-## Getting Started
+TODO make practice excer
 
-### Installing Git
-1. Download from https://git-scm.com/  
-2. Follow installer prompts.
+## GitHub Basics
 
-### Configuring Authentication
-- Generate SSH key:  
-  `ssh-keygen -t ed25519 -C "you@example.com"`  
-- Add public key in GitHub → Settings → SSH and GPG keys.
+TODO add images idk
+Now that we have a basic idea of common Git commands we need to learn a bit more about GitHub. GitHub is the software we will use to colloborate on code projects, such as robot code. There are a couple of key features you'll want to get familiar with early on, pull requests and issues. Issues are the primary method we use to track bugs or feature requests. They have lots of features for organisation such as milestones, labels and assignees. If you are interested in tackling an issue on one of our projects you should assign yourself to it before starting work. Pull requests are similar to issues in a lot of ways (such as organisation features) but are directly linked to a branch and its code. These are how we will do code review. You can also link pull requests to issues allowing us to see what should be ready to be tested. To get more familiar with these features we will do an excersise.
 
-## Basic Workflow
+Instructor to make example repo for this
+1. Open an issue
+2. Assign yourself to someone elses issue
+4. Open a PR with your name in a file and link it to the issue
+5. Close review someone elses PR.
 
-### Cloning a Repository
-```bash
-git clone git@github.com:username/repo.git
-```
+## Naming Commits
+TODO
 
-### Creating a Branch
-```bash
-git checkout -b feature/your-feature
-```
+## Creating Good Issues and PRs
+TODO
 
-### Committing Changes
-```bash
-git add .
-git commit -m "Describe changes"
-```
+## Workflow
 
-### Pushing Changes
-```bash
-git push origin feature/your-feature
-```
+TODO fancy diagrams and images or smth idk
+Whenever working on something, be it a feature or bug we should follow a standard workflow. This will ensure seamless collaboration within the team. On 4788 our workflow for tackling an issue looks like this:
 
-## Collaboration
+1. Assign yourself to the relevant issue
+2. Make sure your local master branch is up to date
+3. Create a branch from master named first-name/issue
+4. Implement feature
+5. Commit feature
+6. Push your branch
+7. Ensure CI is passing
+8. Ensure you're still up to date with master
+9. Open a PR (make sure to link it to the isssue)
 
-### Pull Requests
-1. Open a PR on GitHub.  
-2. Assign reviewers and labels.  
-3. Address feedback and merge.
-
-### Code Review
-- Use inline comments.  
-- Approve or request changes.
-
-## Advanced Features
-- GitHub Actions (CI/CD)  
-- Releases & tags  
-- Issue templates & workflows  
-
-## Best Practices
-- Write clear commit messages.  
-- Keep branches focused.  
-- Use descriptive PR titles.
-
-## Troubleshooting
-- Common Git errors and solutions.  
-- Links to GitHub Help.
-
-## Additional Resources
-- Official Docs: https://docs.github.com/  
-- Interactive Tutorial: https://try.github.io/  
-- Cheat Sheet: https://education.github.com/git-cheat-sheet-education.pdf  
+After opening a PR you should recieve a review from the programming captain or mentors. Make sure to implement any feedback your given and keep the PR up to date with the master branch. You can work on multiple features at the same time but they need to be on seperate branches.

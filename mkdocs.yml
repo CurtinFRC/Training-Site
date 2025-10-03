@@ -241,6 +241,23 @@ nav:
         - Stage 3: learning-course/stage3/3A/introduction.md
         - Stage 4: learning-course/stage4.md
 
+    - Programming Course:
+        - Setup:
+            - "Github": programming-course/S0-setup/github.md
+            - "Environment Setup": programming-course/S0-setup/development-enviroment.md
+        - S1 - Learn Java:
+            - "Ex1 - Java": programming-course/S1-learn-java/ex1-java-basics.md
+            - "Ex2 - Robot": programming-course/S1-learn-java/ex2-robot-basics.md
+        - S2 - Learn FRC:
+            - "Ex1 - Command Based": programming-course/S2-learn-FRC/ex1-command-based.md
+            - "Ex2 - Implementation": programming-course/S2-learn-FRC/ex2-implementation.md
+            - "Ex# - Control Theory": programming-course/S2-learn-FRC/ex#-control-theory.md
+        - S3 - Automation:
+            - "Ex1 - Complex Mechanisms": programming-course/S3-automation/ex1-complex-mechanisms.md
+            - "Ex2 - Auto": programming-course/S3-automation/ex2-auto.md
+        - S4 - Gangbusters:
+            - "Coming soon...": programming-course/S4-gangbusters/wedkyet.md
+
     - CAD Best Practices:
         - best-practices/index.md
         - Document Setup: best-practices/document-setup.md
